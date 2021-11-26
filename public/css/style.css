@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(236, 240, 243);
+}
+
+#formulariocontainer{
+    margin-top: 5vh;
+}
+
+.container > h3 {
+    padding: 20px 0;
+}
+
+#perguntar {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: baseline;
+}
